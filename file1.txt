@@ -2,3 +2,5 @@ Hello World
 
 Rebase example - changes at master branch
 
+Rebase example - changes at branch4
+
