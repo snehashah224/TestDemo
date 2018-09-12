@@ -1,7 +1,4 @@
 Hello World
 
-
-Changes made at branch3
-
-Changes made at git hub
+Rebase example - changes at master branch
 
